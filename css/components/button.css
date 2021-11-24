@@ -1,0 +1,14 @@
+.button-link {
+	background-color: #336658;
+	color: white;
+	text-decoration: none;
+	transition: color 0.3s ease;
+	padding: 15px 20px;
+	border-radius: 4px;
+	transition: 0.3s;
+}
+
+.button-link:hover {
+	background-color: #428371;
+	color: white;
+}
